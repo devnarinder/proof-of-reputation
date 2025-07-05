@@ -32,7 +32,7 @@ The PoR smart contract allows secure, transparent management of reputation score
 
 | File                       | Description                                   |
 | -------------------------- | ---------------------------------------------|
-| `ProofOfReputation.sol`    | Solidity smart contract source code           |
+| `contracts/ProofOfReputation.sol`    | Solidity smart contract source code           |
 | `README.md`                | Project overview, usage, and development notes|
 | `docs/deployment.md`       | Deployment instructions                        |
 | `docs/testing.md`          | Testing guidelines and scripts                 |
