@@ -41,7 +41,7 @@ The PoR smart contract allows secure, transparent management of reputation score
 
 ## Usage
 
-1. Deploy the contract on an Ethereum-compatible blockchain (see [`deployment.md`](docs/deployment.md)).  
+1. Deploy the contract on an Ethereum-compatible blockchain (see [`deployment.md`](/deployment.md)).  
 2. Use contract methods to adjust reputation scores securely.  
 3. Monitor events to track reputation changes in real-time.
 
