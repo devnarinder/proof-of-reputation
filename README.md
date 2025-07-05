@@ -5,7 +5,7 @@ This repository contains the whitepaper and/or smart contract POC for Blocryp's 
 ## Contents
 
 - [Whitepaper](docs/whitepaper.md)
-- [Smart Contract Code](contracts/ProofOfReputation.sol)
+- [Smart Contract Code](docs/smart-contract-code.md)
 - [Deployment Guide](docs/deployment.md)
 - [Testing Instructions](docs/testing.md)
 
